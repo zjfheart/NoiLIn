@@ -23,7 +23,7 @@ cd NoiLIn_ExtraData
 python SAT-NoiLIn-ExtraData.py --gpu='0,1,2,3' --aux_data_filename='ti_500K_pseudo_labeled.pickle'
 
 # Obtain the learning curve of natural and robust accuracy
-python eval_robustness.py --all_epoch --start_epoch=1 --end_epoch=120 --model_dir='model_dir'
+python eval.py --all_epoch --start_epoch=1 --end_epoch=120 --model_dir='model_dir'
 
 # Obtain natural and robust accuracy of a given model 
-python eval_robustness.py --model_dir='model_dir' --pt_name='model_pt_name'
+python eval.py --model_dir='model_dir' --pt_name='model_pt_name'
