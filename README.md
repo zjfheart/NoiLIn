@@ -40,11 +40,14 @@ python eval.py --model_dir='model_dir' --pt_name='model_pt_name'
 ```
 ## Reference
 ```
-@article{zhang2021noilin,
-  title={NoiLIn: Do Noisy Labels Always Hurt Adversarial Training?},
-  author={Zhang, Jingfeng and Xu, Xilie and Han, Bo and Liu, Tongliang and Niu, Gang and Cui, Lizhen and Sugiyama, Masashi},
-  journal={arXiv preprint arXiv:2105.14676},
-  year={2021}
+@article{
+zhang2022noilin,
+title={NoiLin: Improving adversarial training and correcting stereotype of noisy labels },
+author={Jingfeng Zhang and Xilie Xu and Bo Han and Tongliang Liu and Lizhen Cui and Gang Niu and Masashi Sugiyama},
+journal={Transactions on Machine Learning Research},
+year={2022},
+url={https://openreview.net/forum?id=zlQXV7xtZs},
+note={}
 }
 ```
 
