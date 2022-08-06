@@ -47,7 +47,6 @@ author={Jingfeng Zhang and Xilie Xu and Bo Han and Tongliang Liu and Lizhen Cui 
 journal={Transactions on Machine Learning Research},
 year={2022},
 url={https://openreview.net/forum?id=zlQXV7xtZs},
-note={}
 }
 ```
 
